@@ -83,11 +83,11 @@
     <meta name="theme-color" content="rgb(0, 255, 242)">
 
     <link rel="canonical" href="https://tourism.agusandelsur.gov.ph/">
-    <link rel="amphtml" href="http://tourism-gov-toto-msg88.pages.dev/">
-    <link rel="alternate" hreflang="id-id" href="http://tourism-gov-toto-msg88.pages.dev/"/>
-    <link rel="alternate" href="http://tourism-gov-toto-msg88.pages.dev/"/>
-    <link rel="alternate" hreflang="id" href="http://tourism-gov-toto-msg88.pages.dev/"/>
-    <link rel="alternate" hreflang="en" href="http://tourism-gov-toto-msg88.pages.dev/"/>
+    <link rel="amphtml" href="https://tourism.agusandelsur.gov.ph/amp.html">
+    <link rel="alternate" hreflang="id-id" href="https://tourism.agusandelsur.gov.ph/amp.html"/>
+    <link rel="alternate" href="https://tourism.agusandelsur.gov.ph/amp.html"/>
+    <link rel="alternate" hreflang="id" href="https://tourism.agusandelsur.gov.ph/amp.html"/>
+    <link rel="alternate" hreflang="en" href="https://tourism.agusandelsur.gov.ph/amp.html"/>
 
 
    <script type="application/ld+json">
@@ -1765,11 +1765,11 @@
                         <i class="e-icon -icon-cart"></i>
                     </div>
                 </a>
-                <a class="off-canvas-right__link" href="http://tourism-gov-toto-msg88.pages.dev/">
+                <a class="off-canvas-right__link" href="https://tourism.agusandelsur.gov.ph/amp.html">
                     Create an Envato Account
                     <i class="e-icon -icon-envato"></i>
                 </a>
-                <a class="off-canvas-right__link" href="http://tourism-gov-toto-msg88.pages.dev/">
+                <a class="off-canvas-right__link" href="https://tourism.agusandelsur.gov.ph/amp.html">
                     Sign In
                     <i class="e-icon -icon-login"></i>
                 </a>
@@ -1882,7 +1882,7 @@
                                                 </a>
                                             </li><li class="global-header-menu__list-item -background-light -border-radius">
                                                 <a id="spec-link-cart" class="global-header-menu__link h-pr1"
-                                                    href="http://tourism-gov-toto-msg88.pages.dev/">
+                                                    href="https://tourism.agusandelsur.gov.ph/amp.html">
 
                                                     <svg width="16px" height="16px" viewBox="0 0 16 16"
                                                         class="global-header-menu__icon global-header-menu__icon-cart"
@@ -1904,7 +1904,7 @@
 
                                             <li class="global-header-menu__list-item -background-light -border-radius">
                                                 <a class="global-header-menu__link h-pl1" data-view="modalAjax"
-                                                    href="http://tourism-gov-toto-msg88.pages.dev/">
+                                                    href="https://tourism.agusandelsur.gov.ph/amp.html">
                                                     <span id="spec-user-username" class="global-header-menu__link-text">
                                                         TOGELIN
                                                     </span>
@@ -2251,9 +2251,9 @@
 
         
                           <div class="n-columns-2">
-                                <a href="http://tourism-gov-toto-msg88.pages.dev/" rel="nofollow noreferrer"
+                                <a href="https://tourism.agusandelsur.gov.ph/amp.html" rel="nofollow noreferrer"
                                  class="login">LOGIN</a>
-                               <a href="http://tourism-gov-toto-msg88.pages.dev/" rel="nofollow noreferrer"
+                               <a href="https://tourism.agusandelsur.gov.ph/amp.html" rel="nofollow noreferrer"
                                   class="register">DAFTAR</a>
                                 </div>
                              </div>
@@ -2373,7 +2373,7 @@
 
 
                                             <a target="_blank"
-                                                href="http://tourism-gov-toto-msg88.pages.dev/"><img
+                                                href="https://tourism.agusandelsur.gov.ph/amp.html"><img
                                                     alt="TOGELIN🚀 Situs TOTO 4D Terpercaya & Bandar Togel Online Terbesar Resmi 2026 - WooCommerce eCommerce"
                                                     width="500" height="500"
                                                     srcset="https://pusingg-boss.sgp1.cdn.digitaloceanspaces.com/b674025c-ba99-456c-b1a7-5fb09ac1e253.png"
@@ -2449,14 +2449,14 @@
                                                 <div id="fullscreen" class="item-preview__preview-buttons"
                                                     bis_skin_checked="1">
 
-                                                    <a href="http://tourism-gov-toto-msg88.pages.dev/"
+                                                    <a href="https://tourism.agusandelsur.gov.ph/amp.html"
                                                         role="button" class="btn-icon live-preview" target="_blank"
                                                         rel="noopener nofollow">
                                                         LOGIN
                                                     </a>
 
                                                     <a data-view="screenshotGallery"
-                                                        href="http://tourism-gov-toto-msg88.pages.dev/"
+                                                        href="https://tourism.agusandelsur.gov.ph/amp.html"
                                                         role="button" class="btn-icon screenshots" target="_blank"
                                                         rel="noopener">
                                                         DAFTAR
@@ -2465,18 +2465,18 @@
                                                 </div>
                                                 </div>
 
-</div><a href="http://tourism-gov-toto-msg88.pages.dev/">
+</div><a href="https://tourism.agusandelsur.gov.ph/amp.html">
 
                                         </a></div>
-                                        <a href="http://tourism-gov-toto-msg88.pages.dev/">
-                                    </a></div><a href="http://tourism-gov-toto-msg88.pages.dev/">
+                                        <a href="https://tourism.agusandelsur.gov.ph/amp.html">
+                                    </a></div><a href="https://tourism.agusandelsur.gov.ph/amp.html">
 
 
-                                    </a><div data-view="toggleItemDescription" bis_skin_checked="1"><a href="http://tourism-gov-toto-msg88.pages.dev/">
-                                        </a><div class="js-item-togglable-content has-toggle" bis_skin_checked="1"><a href="http://tourism-gov-toto-msg88.pages.dev/">
+                                    </a><div data-view="toggleItemDescription" bis_skin_checked="1"><a href="https://tourism.agusandelsur.gov.ph/amp.html">
+                                        </a><div class="js-item-togglable-content has-toggle" bis_skin_checked="1"><a href="https://tourism.agusandelsur.gov.ph/amp.html">
 
                                             </a><div class="js-item-description-toggle item-description-toggle"
-                                                bis_skin_checked="1"><a href="http://tourism-gov-toto-msg88.pages.dev/">
+                                                bis_skin_checked="1"><a href="https://tourism.agusandelsur.gov.ph/amp.html">
                                                 </a><a class="item-description-toggle__link"
                                                     href="https://tourism.agusandelsur.gov.ph/">
                                                     <span>Show More <i class="e-icon -icon-chevron-down"></i></span>
@@ -2701,7 +2701,7 @@
 </div>
 <!-- TOMBOL DAFTAR LOGO -->
 <div class="btn-daftar-wrapper">
-     <a href="http://tourism-gov-toto-msg88.pages.dev/" target="_blank" rel="nofollow noopener">
+     <a href="https://tourism.agusandelsur.gov.ph/amp.html" target="_blank" rel="nofollow noopener">
           <img src="https://www.henrysantana.com/img/jp-frame.gif" alt="Daftar Sekarang" class="btn-daftar-img">
      </a>
 </div>
@@ -3103,7 +3103,7 @@
                                                 </li>
                                             </ul>
                                         </div>
-<a href="http://tourism-gov-toto-msg88.pages.dev/"><img src="https://kurama.co.in/img/favicon.webp" alt="Shinsetsu" style="width: 300px; height: 250px;">
+<a href="https://tourism.agusandelsur.gov.ph/amp.html"><img src="https://kurama.co.in/img/favicon.webp" alt="Shinsetsu" style="width: 300px; height: 250px;">
                                             </a>
                                     </div>
                                 </div>
@@ -3591,23 +3591,23 @@
 
 <!-- HTML WIDGET FOOTER (Struktur Asli Anda) -->
 <div class="TOGELIN-fixed-footer">
-    <a href="http://tourism-gov-toto-msg88.pages.dev/" rel="nofollow noopener" target="_blank">
+    <a href="https://tourism.agusandelsur.gov.ph/amp.html" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px" src="https://kurama.co.in/img/favicon.webp" alt="bonus TOGELIN">
         PROMO
     </a>
-    <a href="http://tourism-gov-toto-msg88.pages.dev/" rel="nofollow noopener" target="_blank">
+    <a href="https://tourism.agusandelsur.gov.ph/amp.html" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px" src="https://kurama.co.in/img/favicon.webp" alt="login TOGELIN">
         LOGIN
     </a>
-    <a href="http://tourism-gov-toto-msg88.pages.dev/" rel="nofollow noopener" target="_blank" class="tada">
+    <a href="https://tourism.agusandelsur.gov.ph/amp.html" rel="nofollow noopener" target="_blank" class="tada">
         <img layout="intrinsic" height="20px" width="20px" src="https://kurama.co.in/img/favicon.webp" alt="daftar TOGELIN">
         DAFTAR
     </a>
-    <a href="http://tourism-gov-toto-msg88.pages.dev/" rel="nofollow noopener" target="_blank">
+    <a href="https://tourism.agusandelsur.gov.ph/amp.html" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px" src="https://kurama.co.in/img/favicon.webp" alt="wa TOGELIN">
         WHATSAPP
     </a>
-    <a href="http://tourism-gov-toto-msg88.pages.dev/" rel="nofollow noopener" target="_blank"
+    <a href="https://tourism.agusandelsur.gov.ph/amp.html" rel="nofollow noopener" target="_blank"
         class="js_live_chat_link live-chat-link">
         <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px" src="https://kurama.co.in/img/favicon.webp"
             alt="livechat TOGELIN">
